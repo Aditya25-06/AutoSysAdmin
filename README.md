@@ -6,8 +6,8 @@
 
 ## 👤 Author
 
-**Aditya Mangalam** · UID: 26MCC20078
-Master of Computer Applications (MCA), Chandigarh University
+**Aditya Mangalam** · UID: 26MCC20078 | 
+Master of Computer Applications (MCA), Chandigarh University | 
 Supervisor: Mr. Ajay Yadav (E13382)
 # 
 A menu-driven **Bash** toolkit for **CentOS Stream 9** that automates everyday admin tasks:
