@@ -4,11 +4,17 @@
 
 ### Linux System Administration & Monitoring Toolkit
 
+## 👤 Author
+
+**Aditya Mangalam** · UID: 26MCC20078
+Master of Computer Applications (MCA), Chandigarh University
+Supervisor: Mr. Ajay Yadav (E13382)
+#----
 A menu-driven **Bash** toolkit for **CentOS Stream 9** that automates everyday admin tasks:
 storage & LVM, users & ACLs, log analysis, SELinux checks, process control and cron scheduling.
 
 ![Bash](https://img.shields.io/badge/Bash-5.x-4EAA25?logo=gnubash&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS_Stream-9-262577?logo=centos&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS_Stream-10-262577?logo=centos&logoColor=white)
 ![Platform](https://img.shields.io/badge/RHEL--compatible-yes-EE0000?logo=redhat&logoColor=white)
 ![Lines](https://img.shields.io/badge/code-~630_lines-blue)
 
@@ -223,18 +229,6 @@ Expected on the sample log: 420 failed attempts, 44 successful logins, top IP `2
 - Automatic blocking of repeat attackers with `firewalld` or `fail2ban`
 - E-mail alerts and Ansible playbooks for multi-server use
 - Web dashboard or `dialog`-based interface
-
-## 📸 Screenshots
-
-> Add your own screenshots here, for example `docs/menu.png`, `docs/lvs.png`, `docs/cron.png`:
->
-> `![Main menu](docs/menu.png)`
-
-## 👤 Author
-
-**[Your Name]** · UID: [Your UID]
-Master of Computer Applications (MCA), Chandigarh University
-Supervisor: Mr. Ajay Yadav (E13382)
 
 ## 📄 License
 
